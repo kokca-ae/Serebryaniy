@@ -1,0 +1,10 @@
+C:\Users\РустамовМ\source\repos\NewCC\NewCC\bin\Debug\NewCC.exe.config
+C:\Users\РустамовМ\source\repos\NewCC\NewCC\bin\Debug\NewCC.exe
+C:\Users\РустамовМ\source\repos\NewCC\NewCC\bin\Debug\NewCC.pdb
+C:\Users\РустамовМ\source\repos\NewCC\NewCC\obj\Debug\NewCC.csproj.CoreCompileInputs.cache
+C:\Users\РустамовМ\source\repos\NewCC\NewCC\obj\Debug\NewCC.exe
+C:\Users\РустамовМ\source\repos\NewCC\NewCC\obj\Debug\NewCC.pdb
+C:\Users\РустамовМ\source\repos\NewCC\NewCC\obj\Debug\NewCC.csprojAssemblyReference.cache
+C:\Users\РустамовМ\source\repos\NewCC\NewCC\bin\Debug\ClassLibrary1.dll
+C:\Users\РустамовМ\source\repos\NewCC\NewCC\bin\Debug\ClassLibrary1.pdb
+C:\Users\РустамовМ\source\repos\NewCC\NewCC\obj\Debug\NewCC.csproj.CopyComplete
